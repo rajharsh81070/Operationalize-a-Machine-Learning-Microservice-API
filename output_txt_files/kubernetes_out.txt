@@ -1,0 +1,6 @@
+<paste log output from Kubernetes-mediated prediction, here>
+(.devops) harsh project-ml-microservice-kubernetes $ sudo ./run_kubersnetes.sh
+deployment.apps "api-app" created
+NAME                           READY     STATUS              RESTARTS   AGE
+api-app-64c6bcb4b4-s6hlq   0/1       ContainerCreating   0          1s
+service "api-app" exposed
